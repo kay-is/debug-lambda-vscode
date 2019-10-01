@@ -124,6 +124,8 @@ sam local invoke -d 9999 \
 ${array[0]}
 ```
 
+**NOTE:** Don't forget to set execution permissions for the `debug.sh`! :D
+
 It will split the `selectedText` argument and use the first part as the function name and the second part as the event name.
 
 ## Links

@@ -128,9 +128,9 @@ It will split the `selectedText` argument and use the first part as the function
 
 ## Links
 
-[Original article](https://www.moesif.com/blog/technical/serverless/debug-lambda-functions-locally-with-the-sam-cli-and-vscode/#)
-[Variable reference](https://code.visualstudio.com/docs/editor/variables-reference) for VSCode's launch.json
+- [Original article](https://www.moesif.com/blog/technical/serverless/debug-lambda-functions-locally-with-the-sam-cli-and-vscode/#)
+- [Variable reference](https://code.visualstudio.com/docs/editor/variables-reference) for VSCode's launch.json
 
-[Kay's Twitter account](https://twitter.com/k4y1s)
-[Dashbird resources](https://dashbird.io/resources/) with serverless tutorials & case-studies.
-[Moesif blog](https://www.moesif.com/blog/) with API design tipps and tutorials.
+- [Kay's Twitter account](https://twitter.com/k4y1s)
+- [Dashbird resources](https://dashbird.io/resources/) with serverless tutorials & case-studies.
+- [Moesif blog](https://www.moesif.com/blog/) with API design tipps and tutorials.

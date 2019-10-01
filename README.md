@@ -120,7 +120,7 @@ IFS=' ' read -r -a array <<< "$1"
 
 sam local invoke -d 9999 \
 -t "./template.yaml"
--e "./events/${array[1]}.json \
+-e "./events/${array[1]}.json" \
 ${array[0]}
 ```
 

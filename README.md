@@ -130,6 +130,8 @@ It will split the `selectedText` argument and use the first part as the function
 
 ## Links
 
+- [Webinar on YouTube](https://www.youtube.com/watch?v=OUpUmWA0ae0)
+
 - [Original article](https://www.moesif.com/blog/technical/serverless/debug-lambda-functions-locally-with-the-sam-cli-and-vscode/#)
 - [Variable reference](https://code.visualstudio.com/docs/editor/variables-reference) for VSCode's launch.json
 
